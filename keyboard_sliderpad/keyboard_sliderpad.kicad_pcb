@@ -677,6 +677,17 @@
 			(uuid "7b15ed5b-b9a5-42fb-9c53-4cbc1515eb44")
 		)
 		(embedded_fonts no)
+		(model "/home/daksh/Downloads/PTA6043-2015CPB103--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Rotary_Encoder:RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm"
 		(layer "F.Cu")
@@ -1089,15 +1100,15 @@
 			(uuid "bbf83743-1392-4d98-b49e-0d86979907a1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "/home/daksh/Downloads/EC11_Rotary_Encoder_Switched.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 -2)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -2209,6 +2220,17 @@
 			(uuid "be3903ab-892c-480d-94b8-db6cd20daf55")
 		)
 		(embedded_fonts no)
+		(model "/home/daksh/Downloads/PTA6043-2015CPB103--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "MountingHole:MountingHole_3.2mm_M3"
 		(layer "F.Cu")
@@ -3384,6 +3406,17 @@
 			(uuid "9979d3af-a684-49b4-8f60-e69cfdd6d973")
 		)
 		(embedded_fonts no)
+		(model "/home/daksh/Downloads/PTA6043-2015CPB103--3DModel-STEP-269445.STEP"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
+			)
+		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(layer "F.Cu")
@@ -4088,15 +4121,15 @@
 			(uuid "6b8f2f8d-4dd4-4503-a2f0-9bb6f6c5b814")
 		)
 		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Rotary_Encoder.3dshapes/RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm.step"
+		(model "/home/daksh/Downloads/EC11_Rotary_Encoder_Switched.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 7.5 -2.5 -2.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -0 -0 90)
 			)
 		)
 	)
@@ -4518,26 +4551,6 @@
 		(fill no)
 		(layer "Edge.Cuts")
 		(uuid "61af8c5f-26a6-480f-825f-461cd01937d1")
-	)
-	(gr_line
-		(start 173.25 159)
-		(end 173.25 156.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "ac4b1cde-3b3f-4a94-94a9-3bd925756aab")
-	)
-	(gr_line
-		(start 202.75 159)
-		(end 202.75 157.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "beae3f82-74df-4630-aa43-7b8068b19191")
 	)
 	(gr_line
 		(start 158 29)

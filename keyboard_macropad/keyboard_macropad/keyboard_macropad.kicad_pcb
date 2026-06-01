@@ -721,7 +721,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "0aec1914-799f-4c3b-82be-f6c51b3576f9")
 		(at 199.01 105.87)
@@ -762,7 +762,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -778,12 +778,6 @@
 		(path "/944fa856-99e5-44e6-bb89-668133ed1a4d")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1003,17 +997,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "0c5277bc-19bf-4a44-8a1a-44bf5555d10e")
 		(at 199.01 124.92)
@@ -1054,7 +1048,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1070,12 +1064,6 @@
 		(path "/7690e52c-824b-4e72-9e64-e08424d68c9e")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1295,17 +1283,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "0fa4e6ac-4e2a-4fef-b4fd-5e7e50ef1a7f")
 		(at 199.01 86.82)
@@ -1346,7 +1334,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1362,12 +1350,6 @@
 		(path "/0aa2b328-af99-4b44-ab49-df75b44ca08f")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1587,17 +1569,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "10553519-1541-421e-979b-679b120eb072")
 		(at 141.86 105.87)
@@ -1638,7 +1620,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -1654,12 +1636,6 @@
 		(path "/cff3b429-761b-44cc-bc67-9215e425993a")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1879,13 +1855,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -2610,7 +2586,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "2c3c1419-2720-4fc8-bc3e-eb7b44f4616d")
 		(at 160.91 105.87)
@@ -2651,7 +2627,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -2667,12 +2643,6 @@
 		(path "/3260b93c-2d0c-4a21-b2f0-2eea19e15075")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2892,13 +2862,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3330,7 +3300,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "459ac189-687c-40ca-9a55-dc79c0c350ca")
 		(at 179.96 143.97)
@@ -3371,7 +3341,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3387,12 +3357,6 @@
 		(path "/bd7c6d55-10e3-4bc2-aef8-987c4d41eca6")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3612,13 +3576,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -3934,7 +3898,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "4d9fbf21-9706-426b-98b2-f9d69a0dfc56")
 		(at 160.91 143.97)
@@ -3975,7 +3939,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -3991,12 +3955,6 @@
 		(path "/cf72ce86-8f42-4eef-88b2-06cf824a79b8")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4216,17 +4174,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "6b7da708-dce7-4c02-97e7-c73b7fb951ee")
 		(at 199.01 143.97)
@@ -4267,7 +4225,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4283,12 +4241,6 @@
 		(path "/662fcd1a-4689-45c2-bb39-afb875833702")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4508,17 +4460,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "81d3e9fd-dabd-4952-a7b7-c1b22be141a6")
 		(at 160.91 86.82)
@@ -4559,7 +4511,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4575,12 +4527,6 @@
 		(path "/b1d255a0-7ef9-4421-bd18-ed9c112fb2ba")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4800,17 +4746,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "8439bc56-0965-42cb-9f26-2d92e05bcead")
 		(at 141.86 124.92)
@@ -4851,7 +4797,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -4867,12 +4813,6 @@
 		(path "/be5c2f28-e367-4847-b8f9-a50b74ec7878")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5092,17 +5032,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "8d092e21-7922-442b-a91a-6f66db294260")
 		(at 160.91 124.92)
@@ -5143,7 +5083,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5159,12 +5099,6 @@
 		(path "/5c20c850-af23-422c-8dfd-38f968956b5c")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5384,17 +5318,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "97f971f8-6c20-4a94-a6cb-01bfad9aacc5")
 		(at 179.96 86.82)
@@ -5435,7 +5369,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5451,12 +5385,6 @@
 		(path "/ac9452a8-033d-489f-9aed-8d86f5ddfcda")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5676,13 +5604,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -5802,7 +5730,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "c9042a51-a514-425b-9269-c0a7aa3971dd")
 		(at 141.86 86.82)
@@ -5843,7 +5771,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -5859,12 +5787,6 @@
 		(path "/4081770a-ad6a-4346-a808-d55bdf4d1bd4")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6082,9 +6004,9 @@
 			(uuid "7ede9e30-f6c2-4099-a287-4bbc51f7ebc4")
 		)
 		(embedded_fonts no)
-		(model "/home/daksh/Downloads/switch.step"
+		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz -2.5 -6 5)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6326,7 +6248,7 @@
 		)
 		(embedded_fonts no)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "e68db7db-8c0c-4d71-a176-f1622988e2e2")
 		(at 179.96 124.92)
@@ -6367,7 +6289,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6383,12 +6305,6 @@
 		(path "/e7befa31-7126-4c7d-99ff-cd1ffec078e7")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6608,13 +6524,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -6930,7 +6846,7 @@
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "fd0d4202-3807-4a2a-90b2-beaad0306595")
 		(at 179.96 105.87)
@@ -6971,7 +6887,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -6987,12 +6903,6 @@
 		(path "/7cea3091-565d-4f85-920b-fb3c8831770a")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7212,17 +7122,17 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
-	(footprint "Button_Switch_Keyboard:SW_Cherry_MX_1.00u_PCB"
+	(footprint "dakshmessesaround:jiggupiggu"
 		(layer "F.Cu")
 		(uuid "ff6a5113-3b09-4715-9ed9-871d2dcb4c78")
 		(at 141.86 143.97)
@@ -7263,7 +7173,7 @@
 				)
 			)
 		)
-		(property "Description" "Push button switch, generic, two pins"
+		(property "Description" ""
 			(at 0 0 0)
 			(unlocked yes)
 			(layer "F.Fab")
@@ -7279,12 +7189,6 @@
 		(path "/0ba9dda0-99fc-49da-b410-fc682434d2d5")
 		(sheetname "/")
 		(sheetfile "keyboard_macropad.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7504,13 +7408,13 @@
 		(embedded_fonts no)
 		(model "${KICAD10_3DMODEL_DIR}/Button_Switch_Keyboard.3dshapes/SW_Cherry_MX_1.00u_PCB.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz -2.5 -6 3.5)
 			)
 			(scale
 				(xyz 1 1 1)
 			)
 			(rotate
-				(xyz 0 0 0)
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -12508,75 +12412,15 @@
 	)
 	(gr_rect
 		(start 123 39.5)
-		(end 128 44.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(fill no)
-		(layer "Edge.Cuts")
-		(uuid "3f5e4027-e598-4e56-bb03-639beb48315e")
-	)
-	(gr_rect
-		(start 123 39.5)
 		(end 211 170.5)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(fill no)
+		(locked yes)
 		(layer "Edge.Cuts")
 		(uuid "06e1e1a2-546c-48d7-b143-d1163554c07d")
-	)
-	(gr_line
-		(start 123 72.5)
-		(end 123 44)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "a634c4f1-caa7-43d7-b6d5-24329ba1e680")
-	)
-	(gr_line
-		(start 123 104)
-		(end 123 74)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "5a456313-bf2b-4bc4-bae0-071cedb599e1")
-	)
-	(gr_line
-		(start 123 134.5)
-		(end 123 104)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "73680037-29ac-4035-a9a6-5345607632cf")
-	)
-	(gr_line
-		(start 123 166)
-		(end 123 135.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "f9e41175-9626-4f51-8ffa-43307dc6b3b8")
-	)
-	(gr_line
-		(start 211 44)
-		(end 211 39.5)
-		(stroke
-			(width 0.05)
-			(type default)
-		)
-		(layer "Edge.Cuts")
-		(uuid "765fec7f-76ca-4a64-b4d9-df5a5270d985")
 	)
 	(gr_line
 		(start 123 74.5)
@@ -12687,6 +12531,438 @@
 		)
 		(layer "User.2")
 		(uuid "937dd2b5-3fa3-4c91-892c-6f131d2ab1d6")
+	)
+	(segment
+		(start 165.99 147.97)
+		(end 169.42 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "15ba635a-3b01-47a4-9d95-55e4c339b08f")
+	)
+	(segment
+		(start 185.04 148.77)
+		(end 185.04 147.97)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "3e9f60ae-c7d9-407a-adab-5a1b5066385a")
+	)
+	(segment
+		(start 188.47 151.4)
+		(end 201.46 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "40c4ae6f-e13b-4309-90fd-7db44411d063")
+	)
+	(segment
+		(start 159.402944 151.4)
+		(end 162.952944 147.85)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "458830dd-3b8e-4215-8f87-372a781fe287")
+	)
+	(segment
+		(start 169.42 151.4)
+		(end 182.41 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "4f2394a0-7adf-4328-b8ae-384cd1134f0c")
+	)
+	(segment
+		(start 165.87 147.85)
+		(end 165.99 147.97)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "76f8d0f1-26c2-4492-9609-427fc1007370")
+	)
+	(segment
+		(start 185.04 147.97)
+		(end 188.47 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "86f72dd1-9687-4ba5-81dc-273e8f9b3dba")
+	)
+	(segment
+		(start 146.94 147.97)
+		(end 150.37 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "87e71704-1940-4ed3-a010-e1e5102b6d06")
+	)
+	(segment
+		(start 162.952944 147.85)
+		(end 165.87 147.85)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "8ceb595d-85ce-4225-b4d8-9955c4c27743")
+	)
+	(segment
+		(start 182.41 151.4)
+		(end 185.04 148.77)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "929febf1-4624-4594-8fc1-e080dafe71e8")
+	)
+	(segment
+		(start 185.04 147.97)
+		(end 185.04 147.2495)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "a909d5d5-853b-4480-bc5a-a810ab58e13b")
+	)
+	(segment
+		(start 150.37 151.4)
+		(end 159.402944 151.4)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "c4fe4d1c-00da-4b4c-b0f4-2d61509d7d70")
+	)
+	(segment
+		(start 201.46 151.4)
+		(end 204.09 148.77)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "e7996ec9-8b32-41da-8ec8-b30facd0ced2")
+	)
+	(segment
+		(start 204.09 148.77)
+		(end 204.09 147.97)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_4")
+		(uuid "ff1d0f01-6863-471a-b8b4-369de9ed79fa")
+	)
+	(segment
+		(start 204.09 147.97)
+		(end 206.842 145.218)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_4")
+		(uuid "47dda43c-9182-47d2-9e8f-9b35ad8c8990")
+	)
+	(segment
+		(start 206.842 145.218)
+		(end 206.842 55.708)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_4")
+		(uuid "5051636b-013a-46d7-8695-c64e8d1ef744")
+	)
+	(segment
+		(start 206.842 55.708)
+		(end 207.92 54.63)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_4")
+		(uuid "69a3f574-996d-44f1-8fa0-7f6f66817858")
+	)
+	(segment
+		(start 185.04 130.46)
+		(end 183.15 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "261b2ebf-5a34-4e43-9ff4-1da1bfdb9cbc")
+	)
+	(segment
+		(start 169.42 132.35)
+		(end 165.99 128.92)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "410a470a-5cab-424c-84c6-5b239b7a8b4f")
+	)
+	(segment
+		(start 162.797056 132.35)
+		(end 150.37 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "47ce571c-a6a8-40f4-aa09-eecf663c5ddc")
+	)
+	(segment
+		(start 165.99 128.92)
+		(end 165.99 129.157056)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "5092c027-2dd6-44d9-8ff7-745073578e2c")
+	)
+	(segment
+		(start 201.46 132.35)
+		(end 188.47 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "64087e2a-4a19-4306-b685-57b7bdd90dfc")
+	)
+	(segment
+		(start 188.47 132.35)
+		(end 185.04 128.92)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "8ae25cb5-9397-4dd0-8bc2-e4852e265020")
+	)
+	(segment
+		(start 204.09 128.92)
+		(end 204.09 129.72)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "8bdf6690-c090-459f-aa87-0915ea7a6140")
+	)
+	(segment
+		(start 183.15 132.35)
+		(end 169.42 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "9011e9b9-bd52-418c-aea4-748d0d568dcb")
+	)
+	(segment
+		(start 185.04 128.92)
+		(end 185.04 130.46)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "92fc7cce-f22e-4b40-81b5-b184d539381f")
+	)
+	(segment
+		(start 150.37 132.35)
+		(end 146.94 128.92)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "b2c6a748-5b69-4832-961e-721fbce4abb7")
+	)
+	(segment
+		(start 204.09 129.72)
+		(end 201.46 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "b9058b5e-1bd6-4688-a22a-91440293af0b")
+	)
+	(segment
+		(start 165.99 129.157056)
+		(end 162.797056 132.35)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_3")
+		(uuid "ecf75645-1b80-4ddc-a4b2-9898dda64bc2")
+	)
+	(segment
+		(start 206.442 55.692)
+		(end 205.38 54.63)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_3")
+		(uuid "8d0a24c0-9cbd-4ce6-a271-19c71ecc5e62")
+	)
+	(segment
+		(start 206.442 126.568)
+		(end 206.442 55.692)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_3")
+		(uuid "ae5180c7-5da8-4937-8344-26bdfcf4fb83")
+	)
+	(segment
+		(start 204.09 128.92)
+		(end 206.442 126.568)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_3")
+		(uuid "c664700d-44e6-45ea-813e-a1e50e710a49")
+	)
+	(segment
+		(start 201.46 113.3)
+		(end 204.09 110.67)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "0a7d8207-c393-46b7-8d1a-fe42acaf1ac0")
+	)
+	(segment
+		(start 156.186598 109.81)
+		(end 157.396598 108.6)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "1b109d17-f4a5-4411-8f04-2ef5996f0e2f")
+	)
+	(segment
+		(start 204.09 110.67)
+		(end 204.09 109.87)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "20e545ee-8024-4c6c-b9b5-e2e7f3468af1")
+	)
+	(segment
+		(start 185.04 110.67)
+		(end 185.04 109.87)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "25222ee0-4de9-4943-bfe2-78a76e311a69")
+	)
+	(segment
+		(start 185.04 109.87)
+		(end 188.47 113.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "2c706ee8-a0a7-49f6-921f-c9848bea86db")
+	)
+	(segment
+		(start 164.72 108.6)
+		(end 165.99 109.87)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "58eb06f4-5b51-4b7f-8b37-22a6920633de")
+	)
+	(segment
+		(start 153.835051 109.664949)
+		(end 153.980101 109.81)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "5910dee2-a03f-45c3-82a0-995ba43da972")
+	)
+	(segment
+		(start 188.47 113.3)
+		(end 201.46 113.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "6b278b46-f36b-4fea-9b02-5466ccdf7bfc")
+	)
+	(segment
+		(start 165.99 109.87)
+		(end 169.42 113.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "6bd466b7-3a28-4961-95aa-255ffb9c2b2a")
+	)
+	(segment
+		(start 169.42 113.3)
+		(end 182.41 113.3)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "804a18e7-9791-4116-afc9-6da64062ad6c")
+	)
+	(segment
+		(start 182.41 113.3)
+		(end 185.04 110.67)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "89738123-a256-4de0-9f51-a1a6dfe0c4e0")
+	)
+	(segment
+		(start 153.980101 109.81)
+		(end 156.186598 109.81)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "982c7d99-cf86-4427-b458-40b9b514e0f9")
+	)
+	(segment
+		(start 147.145051 109.664949)
+		(end 153.835051 109.664949)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "b5736e13-28a8-422d-b660-32487be2b1de")
+	)
+	(segment
+		(start 146.94 109.87)
+		(end 147.145051 109.664949)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "de4ffa61-5931-4159-bbb9-29bcf82b19eb")
+	)
+	(segment
+		(start 157.396598 108.6)
+		(end 164.72 108.6)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "ROW_2")
+		(uuid "f3612d17-b4ba-410c-879e-c6ef4db601b7")
+	)
+	(segment
+		(start 201.5 55.97)
+		(end 201.5 70.2)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "64a7afb0-ca49-4306-be5c-645be09400ac")
+	)
+	(segment
+		(start 202.84 54.63)
+		(end 201.5 55.97)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "a2b6ed1e-f939-4324-9ce5-a3c70806fdcc")
+	)
+	(segment
+		(start 203.902 81.456365)
+		(end 205.19 82.744365)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "ad6df8c8-c13b-488b-aca6-293820160291")
+	)
+	(segment
+		(start 201.5 70.2)
+		(end 203.902 72.602)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "bfcebfdb-c4a5-4308-b75b-2196b8c798c2")
+	)
+	(segment
+		(start 203.902 72.602)
+		(end 203.902 81.456365)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "cca9ee48-d1b7-4219-accf-63e878d88529")
+	)
+	(segment
+		(start 205.19 82.744365)
+		(end 205.19 108.77)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "d84fb2a7-3eb7-4e4a-b417-fd2f7ecdb453")
+	)
+	(segment
+		(start 205.19 108.77)
+		(end 204.09 109.87)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "ROW_2")
+		(uuid "e1a9c065-23d7-4ca4-ae26-377008d146e5")
 	)
 	(segment
 		(start 176.387056 89.55)
@@ -12943,438 +13219,6 @@
 		(layer "B.Cu")
 		(net "ROW_1")
 		(uuid "d09a1de3-f22d-42ff-9e65-ad5ff369fca7")
-	)
-	(segment
-		(start 201.46 113.3)
-		(end 204.09 110.67)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "0a7d8207-c393-46b7-8d1a-fe42acaf1ac0")
-	)
-	(segment
-		(start 156.186598 109.81)
-		(end 157.396598 108.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "1b109d17-f4a5-4411-8f04-2ef5996f0e2f")
-	)
-	(segment
-		(start 204.09 110.67)
-		(end 204.09 109.87)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "20e545ee-8024-4c6c-b9b5-e2e7f3468af1")
-	)
-	(segment
-		(start 185.04 110.67)
-		(end 185.04 109.87)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "25222ee0-4de9-4943-bfe2-78a76e311a69")
-	)
-	(segment
-		(start 185.04 109.87)
-		(end 188.47 113.3)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "2c706ee8-a0a7-49f6-921f-c9848bea86db")
-	)
-	(segment
-		(start 164.72 108.6)
-		(end 165.99 109.87)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "58eb06f4-5b51-4b7f-8b37-22a6920633de")
-	)
-	(segment
-		(start 153.835051 109.664949)
-		(end 153.980101 109.81)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "5910dee2-a03f-45c3-82a0-995ba43da972")
-	)
-	(segment
-		(start 188.47 113.3)
-		(end 201.46 113.3)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "6b278b46-f36b-4fea-9b02-5466ccdf7bfc")
-	)
-	(segment
-		(start 165.99 109.87)
-		(end 169.42 113.3)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "6bd466b7-3a28-4961-95aa-255ffb9c2b2a")
-	)
-	(segment
-		(start 169.42 113.3)
-		(end 182.41 113.3)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "804a18e7-9791-4116-afc9-6da64062ad6c")
-	)
-	(segment
-		(start 182.41 113.3)
-		(end 185.04 110.67)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "89738123-a256-4de0-9f51-a1a6dfe0c4e0")
-	)
-	(segment
-		(start 153.980101 109.81)
-		(end 156.186598 109.81)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "982c7d99-cf86-4427-b458-40b9b514e0f9")
-	)
-	(segment
-		(start 147.145051 109.664949)
-		(end 153.835051 109.664949)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "b5736e13-28a8-422d-b660-32487be2b1de")
-	)
-	(segment
-		(start 146.94 109.87)
-		(end 147.145051 109.664949)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "de4ffa61-5931-4159-bbb9-29bcf82b19eb")
-	)
-	(segment
-		(start 157.396598 108.6)
-		(end 164.72 108.6)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_2")
-		(uuid "f3612d17-b4ba-410c-879e-c6ef4db601b7")
-	)
-	(segment
-		(start 201.5 55.97)
-		(end 201.5 70.2)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "64a7afb0-ca49-4306-be5c-645be09400ac")
-	)
-	(segment
-		(start 202.84 54.63)
-		(end 201.5 55.97)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "a2b6ed1e-f939-4324-9ce5-a3c70806fdcc")
-	)
-	(segment
-		(start 203.902 81.456365)
-		(end 205.19 82.744365)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "ad6df8c8-c13b-488b-aca6-293820160291")
-	)
-	(segment
-		(start 201.5 70.2)
-		(end 203.902 72.602)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "bfcebfdb-c4a5-4308-b75b-2196b8c798c2")
-	)
-	(segment
-		(start 203.902 72.602)
-		(end 203.902 81.456365)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "cca9ee48-d1b7-4219-accf-63e878d88529")
-	)
-	(segment
-		(start 205.19 82.744365)
-		(end 205.19 108.77)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "d84fb2a7-3eb7-4e4a-b417-fd2f7ecdb453")
-	)
-	(segment
-		(start 205.19 108.77)
-		(end 204.09 109.87)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_2")
-		(uuid "e1a9c065-23d7-4ca4-ae26-377008d146e5")
-	)
-	(segment
-		(start 185.04 130.46)
-		(end 183.15 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "261b2ebf-5a34-4e43-9ff4-1da1bfdb9cbc")
-	)
-	(segment
-		(start 169.42 132.35)
-		(end 165.99 128.92)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "410a470a-5cab-424c-84c6-5b239b7a8b4f")
-	)
-	(segment
-		(start 162.797056 132.35)
-		(end 150.37 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "47ce571c-a6a8-40f4-aa09-eecf663c5ddc")
-	)
-	(segment
-		(start 165.99 128.92)
-		(end 165.99 129.157056)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "5092c027-2dd6-44d9-8ff7-745073578e2c")
-	)
-	(segment
-		(start 201.46 132.35)
-		(end 188.47 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "64087e2a-4a19-4306-b685-57b7bdd90dfc")
-	)
-	(segment
-		(start 188.47 132.35)
-		(end 185.04 128.92)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "8ae25cb5-9397-4dd0-8bc2-e4852e265020")
-	)
-	(segment
-		(start 204.09 128.92)
-		(end 204.09 129.72)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "8bdf6690-c090-459f-aa87-0915ea7a6140")
-	)
-	(segment
-		(start 183.15 132.35)
-		(end 169.42 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "9011e9b9-bd52-418c-aea4-748d0d568dcb")
-	)
-	(segment
-		(start 185.04 128.92)
-		(end 185.04 130.46)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "92fc7cce-f22e-4b40-81b5-b184d539381f")
-	)
-	(segment
-		(start 150.37 132.35)
-		(end 146.94 128.92)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "b2c6a748-5b69-4832-961e-721fbce4abb7")
-	)
-	(segment
-		(start 204.09 129.72)
-		(end 201.46 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "b9058b5e-1bd6-4688-a22a-91440293af0b")
-	)
-	(segment
-		(start 165.99 129.157056)
-		(end 162.797056 132.35)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_3")
-		(uuid "ecf75645-1b80-4ddc-a4b2-9898dda64bc2")
-	)
-	(segment
-		(start 206.442 55.692)
-		(end 205.38 54.63)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_3")
-		(uuid "8d0a24c0-9cbd-4ce6-a271-19c71ecc5e62")
-	)
-	(segment
-		(start 206.442 126.568)
-		(end 206.442 55.692)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_3")
-		(uuid "ae5180c7-5da8-4937-8344-26bdfcf4fb83")
-	)
-	(segment
-		(start 204.09 128.92)
-		(end 206.442 126.568)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_3")
-		(uuid "c664700d-44e6-45ea-813e-a1e50e710a49")
-	)
-	(segment
-		(start 165.99 147.97)
-		(end 169.42 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "15ba635a-3b01-47a4-9d95-55e4c339b08f")
-	)
-	(segment
-		(start 185.04 148.77)
-		(end 185.04 147.97)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "3e9f60ae-c7d9-407a-adab-5a1b5066385a")
-	)
-	(segment
-		(start 188.47 151.4)
-		(end 201.46 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "40c4ae6f-e13b-4309-90fd-7db44411d063")
-	)
-	(segment
-		(start 159.402944 151.4)
-		(end 162.952944 147.85)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "458830dd-3b8e-4215-8f87-372a781fe287")
-	)
-	(segment
-		(start 169.42 151.4)
-		(end 182.41 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "4f2394a0-7adf-4328-b8ae-384cd1134f0c")
-	)
-	(segment
-		(start 165.87 147.85)
-		(end 165.99 147.97)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "76f8d0f1-26c2-4492-9609-427fc1007370")
-	)
-	(segment
-		(start 185.04 147.97)
-		(end 188.47 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "86f72dd1-9687-4ba5-81dc-273e8f9b3dba")
-	)
-	(segment
-		(start 146.94 147.97)
-		(end 150.37 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "87e71704-1940-4ed3-a010-e1e5102b6d06")
-	)
-	(segment
-		(start 162.952944 147.85)
-		(end 165.87 147.85)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "8ceb595d-85ce-4225-b4d8-9955c4c27743")
-	)
-	(segment
-		(start 182.41 151.4)
-		(end 185.04 148.77)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "929febf1-4624-4594-8fc1-e080dafe71e8")
-	)
-	(segment
-		(start 185.04 147.97)
-		(end 185.04 147.2495)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "a909d5d5-853b-4480-bc5a-a810ab58e13b")
-	)
-	(segment
-		(start 150.37 151.4)
-		(end 159.402944 151.4)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "c4fe4d1c-00da-4b4c-b0f4-2d61509d7d70")
-	)
-	(segment
-		(start 201.46 151.4)
-		(end 204.09 148.77)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "e7996ec9-8b32-41da-8ec8-b30facd0ced2")
-	)
-	(segment
-		(start 204.09 148.77)
-		(end 204.09 147.97)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "ROW_4")
-		(uuid "ff1d0f01-6863-471a-b8b4-369de9ed79fa")
-	)
-	(segment
-		(start 204.09 147.97)
-		(end 206.842 145.218)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_4")
-		(uuid "47dda43c-9182-47d2-9e8f-9b35ad8c8990")
-	)
-	(segment
-		(start 206.842 145.218)
-		(end 206.842 55.708)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_4")
-		(uuid "5051636b-013a-46d7-8695-c64e8d1ef744")
-	)
-	(segment
-		(start 206.842 55.708)
-		(end 207.92 54.63)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "ROW_4")
-		(uuid "69a3f574-996d-44f1-8fa0-7f6f66817858")
 	)
 	(segment
 		(start 207.357786 75)
@@ -13793,78 +13637,6 @@
 		(uuid "b9348763-6bc6-4e1b-b897-4d0c72a3b2a7")
 	)
 	(segment
-		(start 182.975635 86.82)
-		(end 197.76 72.035635)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_3")
-		(uuid "2864193c-f296-42ae-9304-52eb50e9cbe2")
-	)
-	(segment
-		(start 197.76 72.035635)
-		(end 197.76 70.705)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_3")
-		(uuid "e4e57f10-b2a2-4d99-8cbd-3c50a532d054")
-	)
-	(segment
-		(start 179.96 86.82)
-		(end 182.975635 86.82)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_3")
-		(uuid "ecb02ed1-d033-4f39-9ec2-4c3a0cc34c3e")
-	)
-	(segment
-		(start 179.96 86.82)
-		(end 179.96 143.97)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "COL_3")
-		(uuid "7ff08836-9ded-4f15-a238-4ae4907b0655")
-	)
-	(segment
-		(start 205.19 83.655635)
-		(end 205.19 75.595)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_4")
-		(uuid "2c79b01e-2e7d-413c-9d7b-5ec331050253")
-	)
-	(segment
-		(start 202.025635 86.82)
-		(end 205.19 83.655635)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_4")
-		(uuid "80a07421-c32f-4bbf-9af2-2cb91563721c")
-	)
-	(segment
-		(start 205.19 75.595)
-		(end 200.3 70.705)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_4")
-		(uuid "b56e832f-937b-4639-a835-74ff36110ca7")
-	)
-	(segment
-		(start 199.01 86.82)
-		(end 202.025635 86.82)
-		(width 0.2)
-		(layer "F.Cu")
-		(net "COL_4")
-		(uuid "f9d32528-3a7e-4674-b658-8477655818f0")
-	)
-	(segment
-		(start 199.01 143.97)
-		(end 199.01 86.82)
-		(width 0.2)
-		(layer "B.Cu")
-		(net "COL_4")
-		(uuid "e84c3976-d9e4-4c00-ab12-40ac71466439")
-	)
-	(segment
 		(start 150.5 80.5)
 		(end 182.885 80.5)
 		(width 0.2)
@@ -13959,6 +13731,78 @@
 		(layer "B.Cu")
 		(net "COL_2")
 		(uuid "bb898065-ed40-439b-8e79-1fd10330924b")
+	)
+	(segment
+		(start 182.975635 86.82)
+		(end 197.76 72.035635)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_3")
+		(uuid "2864193c-f296-42ae-9304-52eb50e9cbe2")
+	)
+	(segment
+		(start 197.76 72.035635)
+		(end 197.76 70.705)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_3")
+		(uuid "e4e57f10-b2a2-4d99-8cbd-3c50a532d054")
+	)
+	(segment
+		(start 179.96 86.82)
+		(end 182.975635 86.82)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_3")
+		(uuid "ecb02ed1-d033-4f39-9ec2-4c3a0cc34c3e")
+	)
+	(segment
+		(start 179.96 86.82)
+		(end 179.96 143.97)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "COL_3")
+		(uuid "7ff08836-9ded-4f15-a238-4ae4907b0655")
+	)
+	(segment
+		(start 205.19 83.655635)
+		(end 205.19 75.595)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_4")
+		(uuid "2c79b01e-2e7d-413c-9d7b-5ec331050253")
+	)
+	(segment
+		(start 202.025635 86.82)
+		(end 205.19 83.655635)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_4")
+		(uuid "80a07421-c32f-4bbf-9af2-2cb91563721c")
+	)
+	(segment
+		(start 205.19 75.595)
+		(end 200.3 70.705)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_4")
+		(uuid "b56e832f-937b-4639-a835-74ff36110ca7")
+	)
+	(segment
+		(start 199.01 86.82)
+		(end 202.025635 86.82)
+		(width 0.2)
+		(layer "F.Cu")
+		(net "COL_4")
+		(uuid "f9d32528-3a7e-4674-b658-8477655818f0")
+	)
+	(segment
+		(start 199.01 143.97)
+		(end 199.01 86.82)
+		(width 0.2)
+		(layer "B.Cu")
+		(net "COL_4")
+		(uuid "e84c3976-d9e4-4c00-ab12-40ac71466439")
 	)
 	(segment
 		(start 209.9 134.8)
