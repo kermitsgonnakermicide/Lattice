@@ -22,6 +22,8 @@ Each module features a xiao rp2040 to run everything else on it because its so s
 
 The macropad and the sliderpad connect with magnetic pogo pins and use I2C to communicate with the main board, while the matrix does the same thing but just connects with normal pin headers and sockets. </br>
 
+in terms of firmware, I have something basic for now - which runs each individual board and packs the data for I2C into a 16 bit struct - this wasnt really tracked as I lowk forgot and I used a bunch of AI so I wouldnt want track it anyways
+
 # why did you even build this?(and many other whys)
 I lowkenuinely just needed a keyboard pretty desperately - i've been using my crusty musty dusty redragon k552 for almost 5 years now and I need to switch it out :cryin:
 additionally, I wanted a keyboard that I could actually take places, so things like a detachable cable(made possible by the pico 2) and a small form factor without compromising on key count was pretty important to me(hence the modules)
