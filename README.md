@@ -37,6 +37,15 @@ A: while I would love to not use a module and put the straight microcontroller o
 **Q: why not RGB?? are you not gamer???**<br>
 A: i dont like RGB on the keeb - its annoying to work with, solder and must I remind you - **expensive** - to satiate the thirst for RGB i'm instead just slapping a giant matrix on the top empty bit of the board(hopefully playing snek on it soon)
 
+
+# build instructions
+- print out all PCBs from JLCPCB(only for the matrix PCB, use ENIG as you'll be soldering it yourself)
+- get to soldering! a hot air gun/hotplate is reccomended for the matrix
+- print out all parts in Production/Prints
+- assemble with m3 nuts and bolts
+- flash all xiao rp2040s and pico with micropython 
+- on all, have boot.py and common.py and use the main.py in each folder for each respective bit 
+- connect together and to your computer and start typing!
 # images
 <details>
 <summary> Schematics </summary>
