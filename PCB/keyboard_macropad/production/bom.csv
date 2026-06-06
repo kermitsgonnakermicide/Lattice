@@ -1,0 +1,6 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+"D1, D10, D11, D12, D13, D14, D15, D16, D2, D3, D4, D5, D6, D7, D8, D9",D_DO-35_SOD27_P7.62mm_Horizontal,16,1N4448,
+DS1,LCD_OLED_128X64_1.3_I2C,1,OLED_128X64_1.3_I2C,
+"J1, J2, J3, J4",PinSocket_1x04_P1.00mm_Vertical,4,Conn_01x04_Pin,
+"SW1, SW10, SW11, SW12, SW13, SW14, SW15, SW16, SW2, SW3, SW4, SW5, SW6, SW7, SW8, SW9",jiggupiggu,16,SW_Push,
+U1,XIAO-RP2040-DIP,1,XIAO-RP2040-DIP,
